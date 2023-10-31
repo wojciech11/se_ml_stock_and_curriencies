@@ -1,0 +1,1 @@
+Sitemap: https://wojciech11.github.io/se_ml_stock_and_curriencies/sitemap.xml
