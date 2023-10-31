@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "se_ml_stock_and_curriencies"
+  site-url: "https://wojciech11.github.io/se_ml_stock_and_curriencies"
+  description: "Przykładowy projekt ML. WIP"
+  repo-branch: master
+  repo-url: "https://github.com/wojciech11/se_ml_stock_and_curriencies"
