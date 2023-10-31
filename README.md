@@ -4,17 +4,26 @@
 
 Celem jest pokazanie jak wykorzystać algorytmy Machine Learning oraz Data Sciene do przewidzenia danych finamsowych, takich jak pary walut.
 
-## Przygotowanie
-
-Patrz [tutorial nbdev](https://nbdev.fast.ai/tutorials/tutorial.html).
-
 ## Praca z repozytorium
 
 ```bash
 conda env create -f environment.yml
-
 conda activate se_ml_stocks_and_currencies
 ```
+
+```bash
+jupyter lab
+```
+
+Wymagane jest również zainstalowanie [quarto](https://quarto.org/), można skorzystać z komendy `nbdev` ([docs](https://nbdev.fast.ai/tutorials/tutorial.html#install-quarto)):
+
+```bash
+nbdev_install_quarto
+```
+
+## Przygotowanie
+
+Patrz [tutorial nbdev](https://nbdev.fast.ai/tutorials/tutorial.html).
 
 ## Materiały Dodatkowe
 
